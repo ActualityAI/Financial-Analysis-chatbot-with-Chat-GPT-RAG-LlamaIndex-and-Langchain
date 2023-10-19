@@ -1,0 +1,7 @@
+llama-index==0.8.35 
+llama-hub==0.0.38
+pypdf==3.16.2
+openai==0.28.0
+halo==0.0.31
+
+
