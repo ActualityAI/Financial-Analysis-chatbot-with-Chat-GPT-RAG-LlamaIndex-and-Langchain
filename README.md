@@ -32,8 +32,6 @@ Run embed.py
 python embed.py 
 ```
 
-You will probably get 2 warnings but no errors. You can ignore the 2 warnings.
-
 This will create 2 new sub directories containing embeddings created from the 2 PDF files which will be called apple_docs.DB and ms_docs.DB
 
 apple_docs.DB are the emebeddings created from the text of the PDF of Apple's most recent 10-K (Annual Report) and ms_docs.DB are the emebeddings created from the text of the PDF of Microsoft's most recent 10-K (Annual Report)
