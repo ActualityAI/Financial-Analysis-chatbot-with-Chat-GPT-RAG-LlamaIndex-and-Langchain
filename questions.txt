@@ -1,0 +1,33 @@
+    Revenue and Sales Trends:
+        Compare and contrast the revenue trends and what factors have influenced them. 
+
+    Debt and Liabilities:
+        Compare and contrast the total debt and its breakdown. How is the company managing its debt obligations?
+
+    Share Repurchases and Dividends
+	Compare and contrast the share repurchases and dividends.
+
+    Cash Flow Analysis:
+        How have the cash flow changed for both companies and what are the key components of operating and investing activities?
+
+    Key Risk Factors:
+        What does the 10-K identify as the primary risk factors for both companies and how do they plan to mitigate these risks?
+
+    Management's Discussion and Analysis (MD&A):
+        What insights and forward-looking information does the MD&A section provide about the financial outlook and strategies?
+
+    Business Segments:
+        Can you explain the performance of the company's different business segments, and are there any standout growth areas?
+
+    Legal Proceedings and Contingencies:
+        Are there any ongoing legal issues or contingencies that could impact the financial health and future operations?
+
+    Audit and Accounting Matters:
+        Were there any significant changes in accounting principles or audit opinions, and if so, what impact do they have on financial statements?
+
+    Related Party Transactions:
+        Does the 10-K disclose any related party transactions, and if so, how are they disclosed and what is the significance to the financials?
+
+Formatting
+==========
+Break the final answer down for both companies and put it into two bullet point lists. One for each company.
