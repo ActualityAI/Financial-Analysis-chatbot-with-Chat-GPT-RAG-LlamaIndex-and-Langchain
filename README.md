@@ -6,8 +6,8 @@ Instead it uses Retrieval Augmented Generation (RAG) and LlamaIndex to not only 
 
 All responses are then gathered and sent to a response synthesiser to produce the final response to your question.
 
-# Video
-<video src="[https://user-images.githubusercontent.com/aaa.mp4](https://www.youtube.com/watch?v=VeyTTpZs5S8&ab_channel=ActualityAI)"></video>
+# Video Tutorial
+https://www.youtube.com/watch?v=VeyTTpZs5S8&ab_channel=ActualityAI
 
 # Instructions
 
