@@ -7,7 +7,7 @@ Instead it uses Retrieval Augmented Generation (RAG) and LlamaIndex to not only 
 All responses are then gathered and sent to a response synthesiser to produce the final response to your question.
 
 # Video
-<video src='https://www.youtube.com/watch?v=VeyTTpZs5S8&ab_channel=ActualityAI' width=180/>
+<video src='https://www.youtube.com/watch?v=VeyTTpZs5S8&ab_channel=ActualityAI' width=180/></video>
 
 # Instructions
 
