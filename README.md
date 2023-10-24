@@ -7,7 +7,13 @@ Instead it uses Retrieval Augmented Generation (RAG) and LlamaIndex to not only 
 All responses are then gathered and sent to a response synthesiser to produce the final response to your question.
 
 # Video
-[![Watch the walkthrough]([https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=VeyTTpZs5S8&ab_channel=ActualityAI))
+[Uploading Invest[InternetShortcut]
+URL=https://www.youtube.com/watch?v=VeyTTpZs5S8&ab_channel=ActualityAI
+IDList=
+HotKey=0
+IconFile=C:\Users\JJ\AppData\Local\Mozilla\Firefox\Profiles\6fkswt73.default-release\shortcutCache\Nd6+00Fgt45kmQd5d9coMw==.ico
+IconIndex=0
+ment Analysis With AI - Tech Titans Clash - YouTube.url…]()
 
 # Instructions
 
