@@ -6,6 +6,8 @@ Instead it uses Retrieval Augmented Generation (RAG) and LlamaIndex to not only 
 
 All responses are then gathered and sent to a response synthesiser to produce the final response to your question.
 
+Tech used includes Chat GPT / Open Ai,  Retrieval Augmented Generation (RAG), LlamaIndex and, under the hood, LlamaIndex uses Langchain.
+
 # Video Tutorial
 https://www.youtube.com/watch?v=VeyTTpZs5S8&ab_channel=ActualityAI
 
