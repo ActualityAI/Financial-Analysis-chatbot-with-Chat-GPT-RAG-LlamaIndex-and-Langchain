@@ -1,4 +1,4 @@
-# Revolutionising-Investment-Analysis-with-AI---Annual-Reports-Compared
+#  Financial Analysis chatbot with Chat GPT, RAG, LlamaIndex and Langchain. 
 
 This chatbot is different to others in that is built to avoid the poor performance of chatbots that have the embeddings of multiple PDF and other documents all embedded together in one large dataset.
 
